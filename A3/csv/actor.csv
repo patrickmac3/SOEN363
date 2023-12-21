@@ -1,0 +1,151 @@
+imdb_id,movie_id,first_name,last_name,persona,movie_title,movie_release_year
+0000006,0034583,Ingrid,Bergman,Ilsa Lund,Casablanca,1942
+0000007,0034583,Humphrey,Bogart,Rick Blaine,Casablanca,1942
+0000008,0068646,Marlon,Brando,Don Vito Corleone,The Godfather,1972
+0000020,0064116,Henry,Fonda,Frank,Once Upon a Time in the West,1968
+0000071,0038650,James,Stewart,George Bailey,It's a Wonderful Life,1946
+0000093,0137523,Brad,Pitt,Tyler Durden,Fight Club,1999
+0000100,0110357,Rowan,Atkinson,Zazu,The Lion King,1994
+0000111,0110357,Matthew,Broderick,Simba,The Lion King,1994
+0000122,0027977,Charles,Chaplin,A Factory Worker,Modern Times,1936
+0000128,0172495,Russell,Crowe,Maximus,Gladiator,2000
+0000134,0099685,Robert,Niro,James Conway,Goodfellas,1990
+0000138,1375666,Leonardo,DiCaprio,Cobb,Inception,2010
+0000138,0407887,Leonardo,DiCaprio,Billy,The Departed,2006
+0000142,0060196,Clint,Eastwood,Blondie,"The Good, the Bad and the Ugly",1966
+0000146,0108052,Ralph,Fiennes,Amon Goeth,Schindler's List,1993
+0000148,0080684,Harrison,Ford,Han Solo,Star Wars: Episode V - The Empire Strikes Back,1980
+0000148,0076759,Harrison,Ford,Han Solo,Star Wars: Episode IV - A New Hope,1977
+0000149,0102926,Jodie,Foster,Clarice Starling,The Silence of the Lambs,1991
+0000150,0088763,Michael,Fox,Marty McFly,Back to the Future,1985
+0000151,0111161,Morgan,Freeman,Ellis Boyd 'Red' Redding,The Shawshank Redemption,1994
+0000151,0114369,Morgan,Freeman,Somerset,Se7en,1995
+0000157,0103064,Linda,Hamilton,Sarah Connor,Terminator 2: Judgment Day,1991
+0000158,0109830,Tom,Hanks,Forrest Gump,Forrest Gump,1994
+0000158,0120815,Tom,Hanks,Captain Miller,Saving Private Ryan,1998
+0000158,0120689,Tom,Hanks,Paul Edgecomb,The Green Mile,1999
+0000164,0102926,Anthony,Hopkins,Dr. Hannibal Lecter,The Silence of the Lambs,1991
+0000190,0816692,Matthew,McConaughey,Cooper,Interstellar,2014
+0000197,0407887,Jack,Nicholson,Costello,The Departed,2006
+0000198,0110413,Gary,Oldman,Stansfield,Léon: The Professional,1994
+0000199,0068646,Al,Pacino,Michael Corleone,The Godfather,1972
+0000199,0071562,Al,Pacino,Michael,The Godfather Part II,1974
+0000204,0110413,Natalie,Portman,Mathilda,Léon: The Professional,1994
+0000206,0133093,Keanu,Reeves,Neo,The Matrix,1999
+0000209,0111161,Tim,Robbins,Andy Dufresne,The Shawshank Redemption,1994
+0000216,0103064,Arnold,Schwarzenegger,The Terminator,Terminator 2: Judgment Day,1991
+0000276,0167260,Sean,Astin,Sam,The Lord of the Rings: The Return of the King,2003
+0000276,0120737,Sean,Astin,Sam,The Lord of the Rings: The Fellowship of the Ring,2001
+0000276,0167261,Sean,Astin,Sam,The Lord of the Rings: The Two Towers,2002
+0000286,0114814,Stephen,Baldwin,McManus,The Usual Suspects,1995
+0000288,0468569,Christian,Bale,Bruce Wayne / Batman,The Dark Knight,2008
+0000288,0482571,Christian,Bale,Alfred Borden,The Prestige,2006
+0000321,0114814,Gabriel,Byrne,Keaton,The Usual Suspects,1995
+0000323,0482571,Michael,Caine,Cutter,The Prestige,2006
+0000350,0120586,Beverly,D'Angelo,Doris,American History X,1998
+0000354,0407887,Matt,Damon,Colin,The Departed,2006
+0000380,0071562,Robert,Duvall,Tom Hagen,The Godfather Part II,1974
+0000398,0109830,Sally,Field,Mrs. Gump,Forrest Gump,1994
+0000401,0133093,Laurence,Fishburne,Morpheus,The Matrix,1999
+0000402,0080684,Carrie,Fisher,Princess Leia,Star Wars: Episode V - The Empire Strikes Back,1980
+0000402,0076759,Carrie,Fisher,Princess Leia Organa,Star Wars: Episode IV - A New Hope,1977
+0000411,0103064,Edward,Furlong,John Connor,Terminator 2: Judgment Day,1991
+0000411,0120586,Edward,Furlong,Danny,American History X,1998
+0000434,0080684,Mark,Hamill,Luke Skywalker,Star Wars: Episode V - The Empire Strikes Back,1980
+0000434,0076759,Mark,Hamill,Luke Skywalker,Star Wars: Episode IV - A New Hope,1977
+0000473,0071562,Diane,Keaton,Kay,The Godfather Part II,1974
+0000501,0099685,Ray,Liotta,Henry Hill,Goodfellas,1990
+0000502,0088763,Christopher,Lloyd,Dr. Emmett Brown,Back to the Future,1985
+0000553,0108052,Liam,Neeson,Oskar Schindler,Schindler's List,1993
+0000578,0054215,Anthony,Perkins,Norman Bates,Psycho,1960
+0000582,0099685,Joe,Pesci,Tommy DeVito,Goodfellas,1990
+0000606,0110413,Jean,Reno,Leon,Léon: The Professional,1994
+0000619,0110912,Tim,Roth,Pumpkin,Pulp Fiction,1994
+0000670,0088763,Lea,Thompson,Lorraine Baines,Back to the Future,1985
+0000842,0050083,Martin,Balsam,Juror 1,12 Angry Men,1957
+0000859,0038650,Lionel,Barrymore,Mr. Potter,It's a Wonderful Life,1946
+0000905,0118799,Roberto,Benigni,Guido,Life Is Beautiful,1997
+0000971,0118799,Nicoletta,Braschi,Dora,Life Is Beautiful,1997
+0000995,0816692,Ellen,Burstyn,Murph,Interstellar,2014
+0001001,0068646,James,Caan,Sonny Corleone,The Godfather,1972
+0001012,0064116,Claudia,Cardinale,Jill McBain,Once Upon a Time in the West,1968
+0001125,0114814,Benicio,Toro,Fenster,The Usual Suspects,1995
+0001173,0468569,Aaron,Eckhart,Harvey Dent,The Dark Knight,2008
+0001260,0054215,John,Gavin,Sam Loomis,Psycho,1960
+0001277,0102926,Scott,Glenn,Jack Crawford,The Silence of the Lambs,1991
+0001372,0120689,Bonnie,Hunt,Jan Edgecomb,The Green Mile,1999
+0001426,0108052,Ben,Kingsley,Itzhak Stern,Schindler's List,1993
+0001533,0137523,Meat,Loaf,Robert Paulsen,Fight Club,1999
+0001536,0047478,Toshirô,Mifune,Kikuchiyo,Seven Samurai,1954
+0001556,0120689,David,Morse,Brutus 'Brutal' Howell,The Green Mile,1999
+0001567,0172495,Connie,Nielsen,Lucilla,Gladiator,2000
+0001570,0137523,Edward,Norton,Narrator,Fight Club,1999
+0001570,0120586,Edward,Norton,Derek,American History X,1998
+0001618,0172495,Joaquin,Phoenix,Commodus,Gladiator,2000
+0001625,0110912,Amanda,Plummer,Honey Bunny,Pulp Fiction,1994
+0001656,0038650,Donna,Reed,Mary Hatch,It's a Wonderful Life,1946
+0001663,2582802,Paul,Reiser,Jim Neimann,Whiplash,2014
+0001673,0064116,Jason,Robards,Manuel 'Cheyenne' Gutiérrez,Once Upon a Time in the West,1968
+0001744,0120815,Tom,Sizemore,Sergeant Horvath,Saving Private Ryan,1998
+0001812,0060196,Lee,Cleef,Sentenza / Angel Eyes,"The Good, the Bad and the Ugly",1966
+0001825,0114369,Andrew,Walker,Dead Man at 1st Crime Scene,Se7en,1995
+0002011,0050083,Lee,Cobb,Juror 3,12 Angry Men,1957
+0002104,0027977,Paulette,Goddard,A Gamin,Modern Times,1936
+0002134,0034583,Paul,Henreid,Victor Laszlo,Casablanca,1942
+0004778,0253474,Adrien,Brody,Wladyslaw Szpilman,The Pianist,2002
+0005132,0468569,Heath,Ledger,Joker,The Dark Knight,2008
+0005251,0133093,Carrie-Anne,Moss,Trinity,The Matrix,1999
+0021600,0167261,Bruce,Allpress,Aldor,The Lord of the Rings: The Two Towers,2002
+0032370,0167260,Noel,Appleby,Everard Proudfoot,The Lord of the Rings: The Return of the King,2003
+0032370,0120737,Noel,Appleby,Everard Proudfoot,The Lord of the Rings: The Fellowship of the Ring,2001
+0040012,0167260,Ali,Astin,Elanor Gamgee,The Lord of the Rings: The Return of the King,2003
+0041066,0095765,Antonella,Attili,Maria Di Vita - Younger,Cinema Paradiso,1988
+0045324,0167261,John,Bach,Madril,The Lord of the Rings: The Two Towers,2002
+0074788,0027977,Henry,Bergman,Cafe Proprietor,Modern Times,1936
+0077720,0073486,Michael,Berryman,Ellis,One Flew Over the Cuckoo's Nest,1975
+0110480,0073486,Peter,Brocco,Col. Matterson,One Flew Over the Cuckoo's Nest,1975
+0111954,0073486,Dean,Brooks,Dr. Spivey,One Flew Over the Cuckoo's Nest,1975
+0122653,0120815,Edward,Burns,Private Reiben,Saving Private Ryan,1998
+0129295,0110357,Niketa,Calame-Harris,Young Nala,The Lion King,1994
+0134073,0095765,Enzo,Cannavale,Spaccafico,Cinema Paradiso,1988
+0134493,0118799,Giorgio,Cantarini,Giosué,Life Is Beautiful,1997
+0167388,1675434,François,Cluzet,Philippe,The Intouchables,2011
+0199774,0095765,Isa,Danieli,Anna,Cinema Paradiso,1988
+0275835,0050083,John,Fiedler,Juror 2,12 Angry Men,1957
+0288976,0253474,Emilia,Fox,Dorota,The Pianist,2002
+0330687,1375666,Joseph,Gordon-Levitt,Arthur,Inception,2010
+0348409,0111161,Bob,Gunton,Warden Norton,The Shawshank Redemption,1994
+0383708,0245429,Rumi,Hiiragi,Chihiro Ogino / Sen,Spirited Away,2001
+0397102,0120737,Alan,Howard,Voice of the Ring,The Lord of the Rings: The Fellowship of the Ring,2001
+0410968,0056058,Akira,Ishihama,Motome Chijiiwa,Harakiri,1962
+0412615,0056058,Shima,Iwashita,Miho Tsugumo,Harakiri,1962
+0413168,0482571,Hugh,Jackman,Robert Angier,The Prestige,2006
+0494504,1675434,Anne,Ny,Yvonne,The Intouchables,2011
+0522503,0110912,Laura,Lovelace,Waitress,Pulp Fiction,1994
+0587256,0054215,Vera,Miles,Lila Crane,Psycho,1960
+0619938,0056058,Tatsuya,Nakadai,Hanshiro Tsugumo,Harakiri,1962
+0622412,0245429,Mari,Natsuki,Yubaba / Zeniba,Spirited Away,2001
+0669254,0114369,Daniel,Zacapa,Detective Taylor at First Murder,Se7en,1995
+0680983,1375666,Elliot,Page,Ariadne,Inception,2010
+0793766,0047478,Takashi,Shimura,Kambei Shimada,Seven Samurai,1954
+0794002,0095327,Yoshiko,Shinohara,Mother,Grave of the Fireflies,1988
+0794186,0095327,Ayano,Shiraishi,Setsuko,Grave of the Fireflies,1988
+0799777,2582802,J.K.,Simmons,Fletcher,Whiplash,2014
+0814280,6751668,Song,Kang-ho,Ki Taek,Parasite,2019
+0851302,0095327,Tsutomu,Tatsumi,Seita,Grave of the Fireflies,1988
+0875477,0047478,Keiko,Tsushima,Shino,Seven Samurai,1954
+0908919,0060196,Eli,Wallach,Tuco,"The Good, the Bad and the Ugly",1966
+0931508,0109830,Rebecca,Williams,Nurse at Park Bench,Forrest Gump,1994
+0954076,0253474,Michal,Zebrowski,Jurek,The Pianist,2002
+0997115,0245429,Miyu,Irino,Haku,Spirited Away,2001
+1082477,1675434,Omar,Sy,Driss,The Intouchables,2011
+1129884,0317248,Leandro,Firmino,Zé Pequeno - Li'l Zé,City of God,2002
+1179105,0317248,Alexandre,Rodrigues,Buscapé - Rocket,City of God,2002
+1249574,0317248,Phellipe,Haagensen,Bené - Benny,City of God,2002
+1310525,6751668,Lee,Sun-kyun,Dong Ik,Parasite,2019
+1856097,6751668,Cho,Yeo-jeong,Yeon Kyo,Parasite,2019
+1886602,2582802,Miles,Teller,Andrew,Whiplash,2014
+2794962,9362722,Hailee,Steinfeld,Gwen Stacy,Spider-Man: Across the Spider-Verse,2023
+3109964,9362722,Brian,Henry,Jeff Morales,Spider-Man: Across the Spider-Verse,2023
+3237775,0816692,Mackenzie,Foy,Murph,Interstellar,2014
+4271336,9362722,Shameik,Moore,Miles Morales,Spider-Man: Across the Spider-Verse,2023

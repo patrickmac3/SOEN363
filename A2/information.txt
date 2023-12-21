@@ -1,0 +1,13 @@
+Patrick MacEachen
+40209790
+Soen363 
+
+------------------------------------------------------
+MySQL was used for the assignment
+-----------------------------------------------------
+
+Task 1 file: Creating all database tables (database name: Movies)
+Task 2 directory: python program used to retrieve needed data for populating database called movies
+Task 3 directory: sql files used to create views 
+Task 4 directory: sql files with the various queries 
+dumps directory: exported data from database 

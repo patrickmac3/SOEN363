@@ -1,0 +1,4 @@
+Patrick MacEachen - 40209790
+
+
+Extra folder: when generating CSV files, i created views that would make it easier to access the data i needed. i included the sql script for these views. In this folder, i also included the dumps of my mysql db content. 
